@@ -27,7 +27,7 @@ Response:
 
 
 2. Get Flashcards by Mixed Subjects (GET)
-Endpoint: /get-subject?student_id=stu001&limit=3
+Endpoint: /get-subject?student_id=stu001&limit=5
 
 Response: Returns up to limit flashcards from different subjects for the specified student, shuffled.
 
